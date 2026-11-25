@@ -1,6 +1,6 @@
 <h1 align="center">
 Raspberry Pi For Beginners, First Edition</h1>
-<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/raspberry-pi-for-beginners-first-edition/9781808656118"> Raspberry Pi For Beginners, First Edition</a>, published by Packt.
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/raspberry-pi-for-beginners-first-edition-9781808656118"> Raspberry Pi For Beginners, First Edition</a>, published by Packt.
 </p>
 
 <h2 align="center">
@@ -10,18 +10,12 @@ Build practical projects using Python 3, GPIOs, sensors, Flask, and camera contr
 Edouard Renard</p>
 
 <p align="center">
-   <a href="" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/free-ebook/9781808656118"><img width="32px" alt="Free PDF" title="Free PDF" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
- &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/gbp/9781808656118"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.amazon.com/Raspberry-Pi-Beginners-practical-projects/dp/1808656113/ref=sr_1_2?dib=eyJ2IjoiMSJ9.kKFmgUo4rlrxS9bWVLNm6dJOADwXHRUDEFS28rvlWcqsEI7QxlLsBn41-n06d8M1PUu-CbqOPl3jE8G5KBM77Kb6F0M4Zaa-4hwkkHELGEMNCBqcUfY28y-vIeIjMGkDxVtRpAqd52_0eHAUCgDBZLND_xO-rzhfZvxAz-EHgis.VPgRp8DUPTqWYSyMwmX-9E_pQjQVwtYjw9FpRJCHFzA&dib_tag=se&keywords=edouard+renard&qid=1795581179&sr=8-2"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <details open> 
   <summary><h2>About the book</summary>
-<a href="https://www.packtpub.com/en-us/product/raspberry-pi-for-beginners-first-edition/9781808656118">
+<a href="https://www.packtpub.com/en-us/product/raspberry-pi-for-beginners-first-edition-9781808656118">
 <img src="https://content.packt.com/B40981/cover_image_small.jpg" alt="Raspberry Pi For Beginners, First Edition" height="256px" align="right">
 </a>
 
@@ -118,7 +112,7 @@ You will also use remote access tools such as TigerVNC and Raspberry Pi Connect 
 
 
 <details> 
-  <summary><h2>Get to know Authors</h2></summary>
+  <summary><h2>Get to know the author</h2></summary>
 
 Edouard Renard is a software engineer, entrepreneur, and robotics teacher. In 2016, he cofounded a robotics start-up as CTO, developing and selling an educational 6-axis robotic arm based on Robot Operating System (ROS). Since 2019, he has been teaching robotics programming online. He is the best-selling instructor on Udemy for ROS 2 and has published many additional free tutorials on his website and YouTube channel (Robotics Back-End). He also leads offline workshops for professionals in Singapore and the US. His teaching philosophy is as follows: step by step, practical, and to the point.
 
@@ -129,9 +123,9 @@ Edouard Renard is a software engineer, entrepreneur, and robotics teacher. In 20
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
-  <li><a href="https://www.packtpub.com/en-us/product/embedded-linux-essentials-handbook-first-edition/9781835469309">Embedded Linux Essentials Handbook, First Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/embedded-linux-essentials-handbook-first-edition-9781835469309">Embedded Linux Essentials Handbook, First Edition</a></li>
 
-  <li><a href="https://www.packtpub.com/en-us/product/internet-of-things-programming-projects-second-edition/9781835082959">Internet of Things Programming Projects, Second Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/internet-of-things-programming-projects-second-edition-9781835082959">Internet of Things Programming Projects, Second Edition</a></li>
  
 </ul>
 
