@@ -88,66 +88,32 @@ The final project combines these skills in a motion-triggered surveillance and a
 </details>
 
 
-<details open> 
-  <summary><h2>Requirements for this book</summary>
-    The examples primarily use a Raspberry Pi 5 running Raspberry Pi OS, although many activities can also be completed using other compatible Raspberry Pi models. Some hardware connections, such as camera cables, may differ depending on the board you use.
+<details open>
+  <summary><h2>Requirements for this book</h2></summary>
+
+The examples primarily use a Raspberry Pi 5 running Raspberry Pi OS, although many activities can also be completed using other compatible Raspberry Pi models. Some hardware connections, such as camera cables, may differ depending on the board you use.
 
 To follow the hands-on activities, you will need the following hardware and software:
 
-Hardware/software
-
-Purpose
-
-Raspberry Pi board, preferably Raspberry Pi 5
-
-Main computer for running the projects
-
-Compatible power supply
-
-Powering the Raspberry Pi
-
-microSD card
-
-Installing Raspberry Pi OS
-
-Computer with internet access
-
-Preparing the microSD card and connecting remotely
-
-Raspberry Pi Imager
-
-Installing and configuring Raspberry Pi OS
-
-Breadboard and jumper wires
-
-Building electronic circuits
-
-LEDs, resistors, and push button
-
-Learning GPIO input and output
-
-HC-SR501 PIR motion sensor
-
-Detecting movement
-
-Compatible Raspberry Pi camera module and cable
-
-Capturing photos and videos
-
-Python 3 and Thonny
-
-Writing and running Python programs
-
-Internet connection and Gmail account
-
-Configuring email notifications
-
-
+| Hardware/software | Purpose |
+|---|---|
+| Raspberry Pi board, preferably Raspberry Pi 5 | Main computer for running the projects |
+| Compatible power supply | Powering the Raspberry Pi |
+| microSD card | Installing Raspberry Pi OS |
+| Computer with internet access | Preparing the microSD card and connecting remotely |
+| Raspberry Pi Imager | Installing and configuring Raspberry Pi OS |
+| Breadboard and jumper wires | Building electronic circuits |
+| LEDs, resistors, and push button | Learning GPIO input and output |
+| HC-SR501 PIR motion sensor | Detecting movement |
+| Compatible Raspberry Pi camera module and cable | Capturing photos and videos |
+| Python 3 and Thonny | Writing and running Python programs |
+| Internet connection and Gmail account | Configuring email notifications |
 
 The book introduces the necessary software tools as you progress, including GPIO Zero, Picamzero, Yagmail, and Flask. You will learn how to install or configure these tools in the relevant chapters.
 
 You will also use remote access tools such as TigerVNC and Raspberry Pi Connect to work with your Raspberry Pi without a dedicated monitor or keyboard.
-  </details>
+
+</details>
     
 
 
