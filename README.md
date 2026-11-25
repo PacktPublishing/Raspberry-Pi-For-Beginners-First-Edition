@@ -25,8 +25,8 @@ Edouard Renard</p>
 <img src="https://content.packt.com/B40981/cover_image_small.jpg" alt="Raspberry Pi For Beginners, First Edition" height="256px" align="right">
 </a>
 
-Raspberry Pi is easiest to learn when setup, code, electronics, and projects are taught together. The book takes you from preparing your board to building a working connected alarm system, with each topic adding a skill you can reuse in your own projects. 
-You'll install and configure Raspberry Pi OS, set up remote access, and learn the Python you need for Raspberry Pi development. From there, you'll build circuits with LEDs, buttons, and a PIR motion sensor, control GPIOs with Python and GPIO Zero, use the Linux terminal, manage files and software, and run Python programs from the command line. You'll also capture photos and videos with the Raspberry Pi Camera, send email alerts, and create a Flask web application that controls connected hardware. Eleven activities give you regular opportunities to apply what you have learned. 
+Start building real Raspberry Pi projects without getting lost between setup instructions, Python code, and electronics. This practical guide takes you from preparing your board to building a working connected alarm system, with each topic adding a skill you can reuse in your own projects.
+You’ll install and configure Raspberry Pi OS, set up remote access, and learn the Python you need for Raspberry Pi development. From there, you’ll build circuits with LEDs, buttons, and a PIR motion sensor, control GPIOs with Python and GPIO Zero, use the Linux terminal, manage files and software, and run Python programs from the command line. You’ll also capture photos and videos with the Raspberry Pi Camera, send email alerts, and create a Flask web application that controls connected hardware. Eleven activities give you regular opportunities to apply what you have learned.
 The final project combines these skills in a motion-triggered surveillance and alarm system that records events, captures an image, emails the photo, serves the latest image on a web page, and starts automatically at boot. Edouard Renard draws on his experience as a software engineer and robotics teacher to explain how the code and hardware work together, helping you build projects independently rather than relying on ready-made solutions. </details>
 <details open> 
   <summary><h2>Key Learnings</summary>
@@ -90,7 +90,63 @@ The final project combines these skills in a motion-triggered surveillance and a
 
 <details open> 
   <summary><h2>Requirements for this book</summary>
-To be filled
+    The examples primarily use a Raspberry Pi 5 running Raspberry Pi OS, although many activities can also be completed using other compatible Raspberry Pi models. Some hardware connections, such as camera cables, may differ depending on the board you use.
+
+To follow the hands-on activities, you will need the following hardware and software:
+
+Hardware/software
+
+Purpose
+
+Raspberry Pi board, preferably Raspberry Pi 5
+
+Main computer for running the projects
+
+Compatible power supply
+
+Powering the Raspberry Pi
+
+microSD card
+
+Installing Raspberry Pi OS
+
+Computer with internet access
+
+Preparing the microSD card and connecting remotely
+
+Raspberry Pi Imager
+
+Installing and configuring Raspberry Pi OS
+
+Breadboard and jumper wires
+
+Building electronic circuits
+
+LEDs, resistors, and push button
+
+Learning GPIO input and output
+
+HC-SR501 PIR motion sensor
+
+Detecting movement
+
+Compatible Raspberry Pi camera module and cable
+
+Capturing photos and videos
+
+Python 3 and Thonny
+
+Writing and running Python programs
+
+Internet connection and Gmail account
+
+Configuring email notifications
+
+
+
+The book introduces the necessary software tools as you progress, including GPIO Zero, Picamzero, Yagmail, and Flask. You will learn how to install or configure these tools in the relevant chapters.
+
+You will also use remote access tools such as TigerVNC and Raspberry Pi Connect to work with your Raspberry Pi without a dedicated monitor or keyboard.
   </details>
     
 
@@ -98,7 +154,7 @@ To be filled
 <details> 
   <summary><h2>Get to know Authors</h2></summary>
 
-_Edouard Renard_ Edouard Renard is a software engineer, entrepreneur, and robotics teacher. In 2016, he cofounded a robotics start-up as CTO, developing and selling an educational 6-axis robotic arm based on Robot Operating System (ROS). Since 2019, he has been teaching robotics programming online. He is the best-selling instructor on Udemy for ROS 2 and has published many additional free tutorials on his website and YouTube channel (Robotics Back-End). He also leads offline workshops for professionals in Singapore and the US. His teaching philosophy is as follows: step by step, practical, and to the point.
+Edouard Renard is a software engineer, entrepreneur, and robotics teacher. In 2016, he cofounded a robotics start-up as CTO, developing and selling an educational 6-axis robotic arm based on Robot Operating System (ROS). Since 2019, he has been teaching robotics programming online. He is the best-selling instructor on Udemy for ROS 2 and has published many additional free tutorials on his website and YouTube channel (Robotics Back-End). He also leads offline workshops for professionals in Singapore and the US. His teaching philosophy is as follows: step by step, practical, and to the point.
 
 
 
